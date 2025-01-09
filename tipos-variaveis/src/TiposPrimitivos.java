@@ -14,7 +14,7 @@
  * 8. boolean
  */
 
- public class TiposPrimitivos {
+public class TiposPrimitivos {
     public static void main(String[] args) {
         // byte: ocupa 1 byte de memória, armazena valores de -128 a 127
         byte byteVar = 100;
